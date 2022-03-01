@@ -31,6 +31,10 @@
     - https://www.sgi.se/sv/om-sgi/psidata/  
 - Trafikanalys  
     - https://www.trafa.se/sidor/psidata/  
+- Kronofogden  
+    - https://kronofogden.se/om-kronofogden/statistik/oppna-data-psidata  
+# Municipalities
+
 - Jönköpings kommun  
     - https://data-jonkoping.opendata.arcgis.com/  
 - Umeå  
