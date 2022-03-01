@@ -23,4 +23,16 @@
     - https://www.dataportal.se/  
 - SMHI  
     - https://www.smhi.se/data/utforskaren-oppna-data/  
-- 
+- Kommuner och regioner [Kolada]
+    -  https://www.kolada.se/  
+- Lantmäteriet  
+    - https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/geodataprodukter/produktlista/#category=oppnadata  
+- Statens Geotekniska Institut  
+    - https://www.sgi.se/sv/om-sgi/psidata/  
+- Trafikanalys  
+    - https://www.trafa.se/sidor/psidata/  
+- Jönköpings kommun  
+    - https://data-jonkoping.opendata.arcgis.com/  
+- Umeå  
+    - https://opendata.umea.se/explore/?disjunctive.keyword&disjunctive.theme&sort=explore.popularity_score  
+    
