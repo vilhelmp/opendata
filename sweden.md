@@ -13,7 +13,7 @@
 
 ## EU level
 - Copernicus Land Monitoring Service
-    - Tags: land use, land cover, elevation, model
+    - Tags: land use, land cover, elevation, model, slope, aspect 
     - URL: https://land.copernicus.eu/
 
 ## Satellite/Aerial data
