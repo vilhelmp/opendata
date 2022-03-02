@@ -11,6 +11,17 @@
     - Tags: collection, europe
     - URL: https://data.europa.eu/sv  
 
+## EU level
+- Copernicus Land Monitoring Service
+    - Tags: land use, land cover, elevation, model
+    - URL: https://land.copernicus.eu/
+
+## Satellite/Aerial data
+- Pleiades
+- Umeå aerial imagery
+- Stockholm aerial imagery
+- 
+
 ## Authorities
 - MSB   
     - Tags: risk, security, flood, landslip, bomb shelter, noise, fire, 
