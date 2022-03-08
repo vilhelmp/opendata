@@ -23,9 +23,12 @@
 - 
 
 ## Authorities
-- MSB   
+<details>
+<summary>- MSB</summary>
     - Tags: risk, security, flood, landslip, bomb shelter, noise, fire, 
     - URL: https://gisapp.msb.se/apps/kartportal/Information.html  
+</details>
+
 - Trafikverket 
     - Tags: trafic, road, accident, 
     - URL: https://lastkajen.trafikverket.se   
