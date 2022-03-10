@@ -507,7 +507,7 @@
 - Örebro kommun	   
     - Webpage: http://www.orebro.se
     - WMS API: http://data.karta.orebro.se/opendataapi/v1/layers 
-    -        : https://karta.orebro.se/opendataapi/v1/layers 
+    -   -"-  : https://karta.orebro.se/opendataapi/v1/layers 
     - WFS API: http://data.karta.orebro.se/opendataapi/v1/layers?type=vectorLayer
 
     - Öppen data: http://data.karta.orebro.se/   
