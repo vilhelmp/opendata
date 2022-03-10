@@ -80,7 +80,6 @@
     - Tags: forrest <br/> 
     - ArcGIS Rest API: http://geodpags.skogsstyrelsen.se/arcgis/rest/services/Geodataportal        
 </details>
-<details>
 
 ## Regions   
 - VISS   
