@@ -27,8 +27,8 @@
 ## Authorities
 <details>
 <summary>- MSB</summary>
-    - Tags: risk, security, flood, landslip, bomb shelter, noise, fire, 
-    - URL: https://gisapp.msb.se/apps/kartportal/Information.html  
+    - Tags: risk, security, flood, landslip, bomb shelter, noise, fire,    
+    - URL: https://gisapp.msb.se/apps/kartportal/Information.html    
 </details>
 
 - Trafikverket 
