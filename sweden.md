@@ -257,6 +257,7 @@
     - Webpage: http://www.olofstrom.se
 - Karlskrona kommun	   
     - Webpage: http://www.karlskrona.se
+    - ArcGIS REST Service: https://geoportal.karlskrona.se/arcgis/rest/services  
 - Ronneby kommun	   
     - Webpage: http://www.ronneby.se
 - Karlshamns kommun	   
@@ -315,6 +316,7 @@
     - Webpage: http://www.helsingborg.se
 - Höganäs kommun	   
     - Webpage: http://www.hoganas.se
+    - ArcGIS REST services: https://geosecma.hoganas.se/arcgis/rest/services    
 - Eslövs kommun	   
     - Webpage: http://www.eslov.se
 - Ystads kommun	   
@@ -359,6 +361,7 @@
     - Webpage: http://www.munkedal.se
 - Tanums kommun	   
     - Webpage: http://www.tanum.se
+    - ArcGIS REST Service: https://ago.tanum.se/arcgis/rest/services  
 - Dals-Eds kommun	   
     - Webpage: http://www.dalsed.se
 - Färgelanda kommun	   
@@ -648,7 +651,8 @@
 - Luleå kommun	   
     - Webpage: http://www.lulea.se
 - Piteå kommun	   
-    - Webpage: http://www.pitea.se
+    - Webpage: http://www.pitea.se  
+    - ArcGIS/WebGIS REST services: https://webgis.it.pitea.se/arcgis/rest/services  
 - Bodens kommun	   
     - Webpage: http://www.boden.se
 - Haparanda stad	   
