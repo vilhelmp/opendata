@@ -1,4 +1,6 @@
-# Sweden
+# Sweden   
+
+*Disclaimer: Not all resources listed through these APIs are accessible openly.*  
 
 ## Collections
 - Sveriges dataportal  
