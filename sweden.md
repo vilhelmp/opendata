@@ -26,41 +26,61 @@
 
 ## Authorities
 <details>
-<summary>- MSB</summary>
+<summary>MSB</summary>
     - Tags: risk, security, flood, landslip, bomb shelter, noise, fire,<br/>
     - URL: https://gisapp.msb.se/apps/kartportal/Information.html    
 </details>
-
-- Trafikverket 
-    - Tags: trafic, road, accident,    
+<details>
+<summary>Trafikverket</summary>
+    - Tags: trafic, road, accident,    <br/>
     - URL: https://lastkajen.trafikverket.se     
-- SCB   
-    - Tags: statistic, nsi, 
-    - https://www.scb.se/vara-tjanster/oppna-data/  
-- Skatteverket   
-    - Tags: taxation, property, regionalization
-    - https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen  
-- SMHI   
-    - Tags: weather, water, flood, flow,
-    - URL: https://www.smhi.se/data/utforskaren-oppna-data/  
-- Lantmäteriet   
-    - Tags: measurement, coordinate, imaging
-    - https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/geodataprodukter/produktlista/#category=oppnadata  
-- Statens Geotekniska Institut   
-    - Tags: geotechnical, survey, 
-    - URL: https://www.sgi.se/sv/om-sgi/psidata/  
-- Trafikanalys  
-    - Tags: traffic, accidents,
-    - URL: https://www.trafa.se/sidor/psidata/  
-- Kronofogden   
+</details>
+<details>
+<summary>SCB</summary>
+    - Tags: statistic, nsi, <br/>
+    - https://www.scb.se/vara-tjanster/oppna-data/       
+</details>
+<details>
+<summary>Skatteverket</summary>
+    - Tags: taxation, property, regionalization<br/>
+    - https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen       
+</details>
+<details>
+<summary>SMHI</summary>
+    - Tags: weather, water, flood, flow,<br/>
+    - URL: https://www.smhi.se/data/utforskaren-oppna-data/       
+</details>
+<details>
+<summary>Lantmäteriet</summary>
+    - Tags: measurement, coordinate, imaging<br/>
+    - https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/geodataprodukter/produktlista/#category=oppnadata       
+</details>
+<details>
+<summary>Statens Geotekniska Institut</summary>
+    - Tags: geotechnical, survey, <br/>
+    - URL: https://www.sgi.se/sv/om-sgi/psidata/       
+</details>
+<details>
+<summary>Trafikanalys</summary>
+    - Tags: traffic, accidents,<br/>
+    - URL: https://www.trafa.se/sidor/psidata/       
+</details>
+<details>
+<summary>Kronofogden</summary>
     - Tags: debt, 
-    - URL: https://kronofogden.se/om-kronofogden/statistik/oppna-data-psidata  
-- Finansinspektionen  
-    - Tags: finance, stock, insider, 
-    - URL: https://www.fi.se/sv/om-fi/om-webbplatsen/oppen-data/  
-- Skogsstyrelsen  
-    - Tags: forrest  
-    - ArcGIS Rest API: http://geodpags.skogsstyrelsen.se/arcgis/rest/services/Geodataportal   
+    - URL: https://kronofogden.se/om-kronofogden/statistik/oppna-data-psidata       
+</details>
+<details>
+<summary>Finansinspektionen</summary>
+    - Tags: finance, stock, insider,<br/> 
+    - URL: https://www.fi.se/sv/om-fi/om-webbplatsen/oppen-data/       
+</details>
+<details>
+<summary>Skogsstyrelsen</summary>
+    - Tags: forrest <br/> 
+    - ArcGIS Rest API: http://geodpags.skogsstyrelsen.se/arcgis/rest/services/Geodataportal        
+</details>
+<details>
 
 ## Regions   
 - VISS   
