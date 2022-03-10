@@ -32,8 +32,8 @@
 </details>
 
 - Trafikverket 
-    - Tags: trafic, road, accident, 
-    - URL: https://lastkajen.trafikverket.se   
+    - Tags: trafic, road, accident,    
+    - URL: https://lastkajen.trafikverket.se     
 - SCB   
     - Tags: statistic, nsi, 
     - https://www.scb.se/vara-tjanster/oppna-data/  
