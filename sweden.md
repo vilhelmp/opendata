@@ -256,6 +256,7 @@
     - Webpage: http://www.oskarshamn.se
 - Västerviks kommun	   
     - Webpage: http://www.vastervik.se
+    - GIS Rest API: http://gis.vastervik.se/arcgis/rest/services  
 - Vimmerby kommun	   
     - Webpage: http://www.vimmerby.se
 - Borgholms kommun	   
@@ -318,6 +319,7 @@
     - Webpage: http://www.bastad.se
 - Malmö stad	   
     - Webpage: http://www.malmo.se
+    - GIS Rest API: https://kartor.malmo.se/arcgis/rest/services  
 - Lunds kommun	   
     - Webpage: http://www.lund.se
 - Landskrona stad	   
