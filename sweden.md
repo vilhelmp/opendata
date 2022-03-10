@@ -55,7 +55,11 @@
     - URL: https://kronofogden.se/om-kronofogden/statistik/oppna-data-psidata  
 - Finansinspektionen  
     - Tags: finance, stock, insider, 
-    - URL: https://www.fi.se/sv/om-fi/om-webbplatsen/oppen-data/
+    - URL: https://www.fi.se/sv/om-fi/om-webbplatsen/oppen-data/  
+- Skogsstyrelsen  
+    - Tags: forrest  
+    - ArcGIS Rest API: http://geodpags.skogsstyrelsen.se/arcgis/rest/services/Geodataportal   
+
 ## Regions   
 - VISS   
     - Tags: water, water system, river, lake, ocean, spring
@@ -77,6 +81,7 @@
     - Webpage: http://www.vallentuna.se
 - Österåkers kommun	   
     - Webpage: http://www.osteraker.se
+    - ArcGIS REST API: https://gisportal.osteraker.se/arcgis/rest/services  
 - Värmdö kommun	   
     - Webpage: http://www.varmdo.se
 - Järfälla kommun	   
@@ -203,6 +208,7 @@
     - Webpage: http://www.nassjo.se
 - Värnamo kommun	   
     - Webpage: http://www.varnamo.se
+    - ArcGIS REST API: https://geodata.varnamo.se/vmo/rest/services  
 - Sävsjö kommun	   
     - Webpage: http://www.savsjo.se
 - Vetlanda kommun	   
@@ -231,6 +237,7 @@
     - Webpage: http://www.hogsby.se
 - Torsås kommun	   
     - Webpage: http://www.torsas.se
+    - ArcGIS REST API: https://gis.torsas.se/arcgis/rest/services  
 - Mörbylånga kommun	   
     - Webpage: http://www.morbylanga.se
 - Hultsfreds kommun	   
@@ -264,6 +271,7 @@
     - Webpage: http://www.karlshamn.se
 - Sölvesborgs kommun	   
     - Webpage: http://www.solvesborg.se
+    - ArcGIS REST API: https://karta.solvesborg.se/arcgis/rest/services  
 - Svalövs kommun	   
     - Webpage: http://www.svalov.se
 - Staffanstorps kommun	   
@@ -319,10 +327,13 @@
     - ArcGIS REST services: https://geosecma.hoganas.se/arcgis/rest/services    
 - Eslövs kommun	   
     - Webpage: http://www.eslov.se
+    - ArcGIS REST API: https://kartportal.eslov.se/arcgis/rest/services  
 - Ystads kommun	   
     - Webpage: http://www.ystad.se
+    - ArcGIS REST API: http://kartportal.ystad.se/arcgis/rest/services  
 - Trelleborgs kommun	   
     - Webpage: http://www.trelleborg.se
+    - ArcGIS REST API: https://gispublic2.trelleborg.se/server/rest/services  
 - Kristianstads kommun	   
     - Webpage: http://www.kristianstad.se
 - Simrishamns kommun	   
@@ -378,6 +389,7 @@
     - Webpage: http://www.grastorp.se
 - Essunga kommun	   
     - Webpage: http://www.essunga.se
+    - ArcGIS REST API: https://karta.goliska.se/arcgis/rest/services/Essunga   
 - Karlsborgs kommun	   
     - Webpage: http://www.karlsborg.se
 - Gullspångs kommun	   
@@ -400,6 +412,7 @@
     - Webpage: http://www.vara.se
 - Götene kommun	   
     - Webpage: http://www.gotene.se
+    - ArcGIS REST API: https://karta.goliska.se/arcgis/rest/services/Gotene  
 - Tibro kommun	   
     - Webpage: http://www.tibro.se
 - Töreboda kommun	   
@@ -426,14 +439,17 @@
     - Webpage: http://www.boras.se
 - Ulricehamns kommun	   
     - Webpage: http://www.ulricehamn.se
+    - ArcGIS REST API: https://gisportal.ulricehamn.se/arcgis/rest/services  
 - Åmåls kommun	   
     - Webpage: http://www.amal.se
 - Mariestads kommun	   
     - Webpage: http://www.mariestad.se
 - Lidköpings kommun	   
     - Webpage: http://www.lidkoping.se
+    - ArcGIS REST API: https://karta.goliska.se/arcgis/rest/services/Lidkoping  
 - Skara kommun	   
     - Webpage: http://www.skara.se
+    - ArcGIS REST API: https://karta.goliska.se/arcgis/rest/services/Skara  
 - Skövde kommun	   
     - Webpage: http://www.skovde.se
 - Hjo kommun	   
@@ -488,7 +504,12 @@
     - Webpage: http://www.ljusnarsberg.se
 - Örebro kommun	   
     - Webpage: http://www.orebro.se
-- Kumla kommun	   
+    - WMS API: http://data.karta.orebro.se/opendataapi/v1/layers 
+    -        : https://karta.orebro.se/opendataapi/v1/layers 
+    - WFS API: http://data.karta.orebro.se/opendataapi/v1/layers?type=vectorLayer
+
+    - Öppen data: http://data.karta.orebro.se/   
+- Kumla kommun	    
     - Webpage: http://www.kumla.se
 - Askersunds kommun	   
     - Webpage: http://www.askersund.se
@@ -630,6 +651,7 @@
     - Webpage: http://www.lycksele.se
 - Skellefteå kommun	   
     - Webpage: http://www.skelleftea.se
+    - ArcGIS REST API:  https://geodata.skelleftea.se/arcgis/rest/services  
 - Arvidsjaurs kommun	   
     - Webpage: http://www.arvidsjaur.se
 - Arjeplogs kommun	   
