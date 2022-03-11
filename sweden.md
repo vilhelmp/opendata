@@ -39,8 +39,8 @@
 <details>
 <summary>MSB</summary>
     - Tags: risk, security, flood, landslip, bomb shelter, noise, fire,<br/>
-    - URL: https://gisapp.msb.se/apps/kartportal/Information.html    
-    - Kartportal: https://gisapp.msb.se/apps/kartportal/index.html   
+    - URL: https://gisapp.msb.se/apps/kartportal/Information.html<br/>    
+    - Kartportal: https://gisapp.msb.se/apps/kartportal/index.html <br/>  
 </details>
 <details>
 <summary>Trafikverket</summary>
