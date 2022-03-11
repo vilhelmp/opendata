@@ -13,6 +13,10 @@
     - Tags: collection, europe
     - URL: https://data.europa.eu/sv  
 
+- geodataportalen   
+    - Tags: GIS, maps
+    - URL: https://www.geodata.se/geodataportalen/
+
 ## EU level
 - Copernicus Land Monitoring Service
     - Tags: land use, land cover, elevation, model, slope, aspect 
@@ -92,7 +96,11 @@
     - Tags: geology <br/> 
     - URL: https://apps.sgu.se/geolagret/        
 </details>
-
+<details>
+<summary>Länstyrelsernas Geodatakatalog</summary>
+    - Tags: GIS, maps <br/> 
+    - URL: https://ext-geodatakatalog.lansstyrelsen.se/GeodataKatalogen/  
+</details>
 
 
 ## Regions   
