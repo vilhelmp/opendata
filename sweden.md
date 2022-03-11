@@ -28,6 +28,8 @@
 
 - [Investing.com](https://investing.com)  
     - Investpy https://investpy.readthedocs.io/   
+- Avanza Placer  
+    - https://www.avanza.se/placera/forstasidan.html  
 
 ## Authorities
 <details>
