@@ -24,6 +24,11 @@
 - Stockholm aerial imagery
 - 
 
+## Stocks, bonds and funds
+
+- [Investing.com](https://investing.com)  
+    - Investpy https://investpy.readthedocs.io/   
+
 ## Authorities
 <details>
 <summary>MSB</summary>
