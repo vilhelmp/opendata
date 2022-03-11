@@ -103,8 +103,8 @@
 <details>
 <summary>Länstyrelsernas Geodatakatalog</summary>
     - Tags: GIS, maps <br/> 
-    - URL: https://ext-geodatakatalog.lansstyrelsen.se/GeodataKatalogen/  
-    - Endast WMS-tjänster: https://ext-geodatakatalog.lansstyrelsen.se/GeodataKatalogen/?query=757745985_GeodataKatalogen_AdvancedUser_urlparam&site=DefaultUser&loc=sv
+    - URL: https://ext-geodatakatalog.lansstyrelsen.se/GeodataKatalogen/  <br/>
+    - Endast WMS-tjänster: https://ext-geodatakatalog.lansstyrelsen.se/GeodataKatalogen/?query=757745985_GeodataKatalogen_AdvancedUser_urlparam&site=DefaultUser&loc=sv <br/>
 </details>
 
 <details>
