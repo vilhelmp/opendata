@@ -87,6 +87,13 @@
     - Tags: forrest <br/> 
     - ArcGIS Rest API: http://geodpags.skogsstyrelsen.se/arcgis/rest/services/Geodataportal        
 </details>
+<details>
+<summary>Sveriges Geotekniska Undersökning</summary>
+    - Tags: geology <br/> 
+    - URL: https://apps.sgu.se/geolagret/        
+</details>
+
+
 
 ## Regions   
 - VISS   
