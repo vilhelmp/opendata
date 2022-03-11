@@ -78,7 +78,7 @@
 </details>
 <details>
 <summary>Kronofogden</summary>
-    - Tags: debt, 
+    - Tags: debt,  <br/> 
     - URL: https://kronofogden.se/om-kronofogden/statistik/oppna-data-psidata       
 </details>
 <details>
@@ -102,6 +102,11 @@
     - URL: https://ext-geodatakatalog.lansstyrelsen.se/GeodataKatalogen/  
 </details>
 
+<details>
+<summary>Länsstyrelsernas öppna data</summary>
+    - Tags: <br/> 
+    - URL: http://extra.lansstyrelsen.se/gis/Sv/lansvisa-geodata/Pages/default.aspx
+</details>
 
 ## Regions   
 - VISS   
