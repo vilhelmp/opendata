@@ -35,7 +35,7 @@
 - Avanza Placer  
     - https://www.avanza.se/placera/forstasidan.html  
 
-## Authorities
+## Authorities/Stateowned entities/etc
 <details>
 <summary>MSB</summary>
     - Tags: risk, security, flood, landslip, bomb shelter, noise, fire,<br/>
@@ -111,6 +111,14 @@
 <summary>Länsstyrelsernas öppna data</summary>
     - Tags: <br/> 
     - URL: http://extra.lansstyrelsen.se/gis/Sv/lansvisa-geodata/Pages/default.aspx
+</details>
+
+<details>
+<summary>SMHI</summary>
+    - Tags: <br/> 
+    - Search and discover: https://www.smhi.se/data/utforskaren-oppna-data<br/> 
+    - URL: https://opendata.smhi.se/<br/> 
+    - API docs: https://opendata.smhi.se/apidocs/<br/> 
 </details>
 
 ## Regions   
