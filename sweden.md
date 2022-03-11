@@ -40,6 +40,7 @@
 <summary>MSB</summary>
     - Tags: risk, security, flood, landslip, bomb shelter, noise, fire,<br/>
     - URL: https://gisapp.msb.se/apps/kartportal/Information.html    
+    - Kartportal: https://gisapp.msb.se/apps/kartportal/index.html   
 </details>
 <details>
 <summary>Trafikverket</summary>
@@ -69,7 +70,10 @@
 <details>
 <summary>Statens Geotekniska Institut</summary>
     - Tags: geotechnical, survey, <br/>
-    - URL: https://www.sgi.se/sv/om-sgi/psidata/       
+    - URL: https://www.sgi.se/sv/om-sgi/psidata/       <br/>
+    - GeoServer inventory: https://gis.swedgeo.se/geoserver/web/   <br/>
+    - GeoServer sök lager: https://gis.swedgeo.se/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage   <br/>
+    - Gisdata översikt: https://gis.swedgeo.se/<br/>  
 </details>
 <details>
 <summary>Trafikanalys</summary>
@@ -100,6 +104,7 @@
 <summary>Länstyrelsernas Geodatakatalog</summary>
     - Tags: GIS, maps <br/> 
     - URL: https://ext-geodatakatalog.lansstyrelsen.se/GeodataKatalogen/  
+    - Endast WMS-tjänster: https://ext-geodatakatalog.lansstyrelsen.se/GeodataKatalogen/?query=757745985_GeodataKatalogen_AdvancedUser_urlparam&site=DefaultUser&loc=sv
 </details>
 
 <details>
