@@ -289,6 +289,7 @@
     - Webpage: http://www.borgholm.se
 - Region Gotland (kommun)	   
     - Webpage: http://www.gotland.se
+    - REST API: https://kartor.gotland.se/arcgis/rest/services   
 - Olofströms kommun	   
     - Webpage: http://www.olofstrom.se
 - Karlskrona kommun	   
