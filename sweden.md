@@ -154,7 +154,7 @@
     - PSI öppna data: https://www.huddinge.se/psi/geodata/   
 - Botkyrka kommun	   
     - Webpage: http://www.botkyrka.se   
-    - Open data through Kolada and Stockholm City open data portal: https://dataportalen.stockholm.se/dataportalen/   
+    - Open data through Kolada (https://www.kolada.se/) and Stockholm City open data portal (https://dataportalen.stockholm.se/dataportalen/)   
 - Salems kommun	   
     - Webpage: http://www.salem.se
 - Haninge kommun	   
@@ -172,7 +172,9 @@
 - Sollentuna kommun	   
     - Webpage: http://www.sollentuna.se
 - Stockholms stad	   
-    - Webpage: http://www.stockholm.se
+    - Webpage: http://www.stockholm.se  
+    - List of open data: https://kartor.stockholm/kartor-geodata/     
+    - Stockholm City open data portal: https://dataportalen.stockholm.se/dataportalen/   
 - Södertälje kommun	   
     - Webpage: http://www.sodertalje.se
 - Nacka kommun	   
