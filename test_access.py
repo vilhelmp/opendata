@@ -1,0 +1,2 @@
+
+# Script to test access
