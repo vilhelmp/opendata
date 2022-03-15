@@ -137,9 +137,25 @@
 
 ## Municipalities
 - Upplands Väsby kommun	   
-    - Webpage: http://www.upplandsvasby.se
+    - Webpage: http://www.upplandsvasby.se  
+    - No openly available WMS/WFS/REST API.  
+    - Official data through common portal "Kolada" (https://www.upplandsvasby.se/ovrigt/oppna-data/kolada.html)   
+    - Unofficial WMS access: https://tilecacheext.upplandsvasby.se/service/wms?VERSION=1.1.1&TILED=true   
+        - Aerial images  
+        - Elevation raster  
 - Vallentuna kommun	   
-    - Webpage: http://www.vallentuna.se
+    - Webpage: http://www.vallentuna.se  
+    - No openly available WMS/WFS/REST API available.  
+    - GeoServer unofficial access: https://ows.vallentuna.se/geoserver/web/ 
+        - Links to alla services (WMS, WFS, WMTS, etc...) and versions  
+        - Lists of all layers available and to download (as GeoJSON, CSV, PNG etc)  
+    - Unofficial WMS access https://ows.vallentuna.se/geoserver/ows?version=1.3.0      
+        - Radon  
+        - Cloud burst/Downfall    
+        - Preschools   
+        - Parks  
+        - Swimming/Beach POI  
+        - etc
 - Österåkers kommun	   
     - Webpage: http://www.osteraker.se
     - ArcGIS REST API: https://gisportal.osteraker.se/arcgis/rest/services  
