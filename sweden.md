@@ -150,9 +150,11 @@
 - Ekerö kommun	   
     - Webpage: http://www.ekero.se
 - Huddinge kommun	   
-    - Webpage: http://www.huddinge.se
+    - Webpage: http://www.huddinge.se  
+    - PSI öppna data: https://www.huddinge.se/psi/geodata/   
 - Botkyrka kommun	   
-    - Webpage: http://www.botkyrka.se
+    - Webpage: http://www.botkyrka.se   
+    - Open data through Kolada and Stockholm City open data portal: https://dataportalen.stockholm.se/dataportalen/   
 - Salems kommun	   
     - Webpage: http://www.salem.se
 - Haninge kommun	   
