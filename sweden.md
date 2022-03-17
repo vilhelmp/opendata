@@ -441,6 +441,7 @@
     - Webpage: http://www.varberg.se
 - Kungsbacka kommun	   
     - Webpage: http://www.kungsbacka.se
+    - GeoServer: https://karta.kungsbacka.se/geoserver/web/   
 - Härryda kommun	   
     - Webpage: http://www.harryda.se
 - Partille kommun	   
