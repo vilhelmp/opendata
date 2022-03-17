@@ -15,8 +15,11 @@
 
 - geodataportalen   
     - Tags: GIS, maps
-    - URL: https://www.geodata.se/geodataportalen/
-
+    - URL: https://www.geodata.se/geodataportalen/  
+- GeoNode Gallery  
+    - Tags: GIS, maps, collection
+    - Mainly GeoNode CMS access to mostly global datasets   
+    - URL: https://geonode.org/gallery/  
 ## EU level
 - Copernicus Land Monitoring Service
     - Tags: land use, land cover, elevation, model, slope, aspect 
