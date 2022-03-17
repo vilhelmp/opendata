@@ -12,14 +12,16 @@
 - data.europa.eu   
     - Tags: collection, europe
     - URL: https://data.europa.eu/sv  
-
 - geodataportalen   
     - Tags: GIS, maps
     - URL: https://www.geodata.se/geodataportalen/  
 - GeoNode Gallery  
     - Tags: GIS, maps, collection
     - Mainly GeoNode CMS access to mostly global datasets   
-    - URL: https://geonode.org/gallery/  
+    - URL: https://geonode.org/gallery/   
+- FreeGISData.org  
+    - Incomplete but most seems to work at least.     
+    - URL: http://freegisdata.org/place/210829/   
 ## EU level
 - Copernicus Land Monitoring Service
     - Tags: land use, land cover, elevation, model, slope, aspect 
