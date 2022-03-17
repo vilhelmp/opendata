@@ -126,6 +126,16 @@
     - URL: https://opendata.smhi.se/<br/> 
     - API docs: https://opendata.smhi.se/apidocs/<br/> 
 </details>
+<details>
+<summary>Boverket</summary>
+ -Tags <br/>
+ - URL: https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/oppna-data/ <br/>
+</details>
+
+<details>
+<summary>.</summary>
+    - 
+</details>
 
 ## Regions   
 - VISS   
