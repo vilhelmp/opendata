@@ -114,10 +114,10 @@
 </details>
 
 <details>
-<summar>Länsstyrelsernas Planeringskatalog</summary>  
+<summary>Länsstyrelsernas Planeringskatalog</summary>  
     - Tags: GIS, maps<br/>  
     - URL: https://ext-geodatakatalog-forv.lansstyrelsen.se/PlaneringsKatalogen/ <br/>  
-<details/>
+</details>
 <details>
 <summary>Länsstyrelsernas öppna data</summary>
     - Tags: <br/> 
