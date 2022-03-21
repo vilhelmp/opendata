@@ -105,7 +105,8 @@
 <summary>Sveriges Geotekniska Undersökning</summary>
     - Tags: geology <br/> 
     - URL: https://apps.sgu.se/geolagret/   <br/>       
-    - Lista på visningstjänster (WMS) https://www.sgu.se/produkter/geologiska-data/vara-data-i-visningstjanster/<br/>
+    - WebMap service: https://apps.sgu.se/kartvisare/ <br/>  
+    - Lista på visningstjänster (WMS) https://www.sgu.se/produkter/geologiska-data/vara-data-i-visningstjanster/<br/>  
 </details>
 <details>
 <summary>Länstyrelsernas Geodatakatalog</summary>
