@@ -79,6 +79,7 @@
     - GeoServer inventory: https://gis.swedgeo.se/geoserver/web/   <br/>
     - GeoServer sök lager: https://gis.swedgeo.se/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage   <br/>
     - Gisdata översikt: https://gis.swedgeo.se/<br/>  
+    - Lista på produkter: https://www.sgi.se/sv/produkter--tjanster/kartor-data-och-verktyg/<br/>
 </details>
 <details>
 <summary>Trafikanalys</summary>
