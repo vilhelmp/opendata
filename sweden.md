@@ -70,7 +70,8 @@
 <details>
 <summary>Lantmäteriet</summary>
     - Tags: measurement, coordinate, imaging<br/>
-    - https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/geodataprodukter/produktlista/#category=oppnadata       
+    - https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/geodataprodukter/produktlista/#category=oppnadata<br/>         
+    - Corine Land Cover (CLC): https://www.lantmateriet.se/sv/Om-Lantmateriet/Samverkan-med-andra/internationell-samverkan/corine-land-cover/<br/>  
 </details>
 <details>
 <summary>Statens Geotekniska Institut</summary>
