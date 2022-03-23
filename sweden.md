@@ -158,6 +158,11 @@
 - Kommuner och regioner [Kolada] 
     - Tags: 
     - URL: https://www.kolada.se/  
+- Region Gotland  
+    - Tags:   
+    - GeoServer: http://gotland.comcat.nu/geoserver/web/  
+    - 
+
 
 ## Municipalities
 - Upplands Väsby kommun	   
