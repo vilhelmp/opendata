@@ -40,7 +40,7 @@
 - Avanza Placer  
     - https://www.avanza.se/placera/forstasidan.html  
 
-## Authorities/Stateowned entities/etc
+## Authorities/State owned entities/etc
 <details>
 <summary>MSB</summary>
     - Tags: risk, security, flood, landslip, bomb shelter, noise, fire,<br/>
@@ -141,8 +141,11 @@
 </details>
 
 <details>
-<summary>.</summary>
-    - 
+<summary>Valmyndigheten</summary>
+    - Tags: <br/>
+    - URL: https://data.val.se/val/val2018/statistik/index.html <br/>  
+    - URL: https://data.val.se/val/val2018/slutresultat/R/rike/index.html <br/>
+    - URL: https://www.val.se/valresultat/riksdag-region-och-kommun/2018/valresultat.html <br/>
 </details>
 
 ## Regions   
