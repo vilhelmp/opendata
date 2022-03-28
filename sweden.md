@@ -535,7 +535,8 @@
 - Töreboda kommun	   
     - Webpage: http://www.toreboda.se
 - Göteborgs stad	   
-    - Webpage: http://www.goteborg.se
+    - Webpage: http://www.goteborg.se  
+    - Explore scenarios for flooding, downfall etc: https://www.vattenigoteborg.se/SeaAndWaterways/ScenarioResult   
 - Mölndals stad	   
     - Webpage: http://www.molndal.se
 - Kungälvs kommun	   
