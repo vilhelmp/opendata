@@ -1,0 +1,71 @@
+[sweden]
+disclaimer = 'Not all resources that the APIs provide are available unauthorized.'
+
+[[sweden.collections]]
+    name = 'Sveriges Dataportal'
+    tags = ['collection']
+    url = 'https://www.dataportal.se'
+[[sweden.collections]]
+    name = 'INSPIRE'  
+    tags = ['collection', 'europe', 'inspire']
+    url = 'https://inspire-geoportal.ec.europa.eu/results.html?country=se&view=details&theme=none'
+[[sweden.collections]]
+    name = 'data.europa.eu'
+    tags = ['collection', 'europe']
+    url = 'https://data.europa.eu/sv'  
+[[sweden.collections]]
+    name = 'geodataportalen'
+    tags = ['GIS', 'maps']
+    url = 'https://www.geodata.se/geodataportalen/'
+[[sweden.collections]]
+    name = 'GeoNode Gallery'
+    tags = [ 'GIS', 'maps', 'collection']
+    url = 'https://geonode.org/gallery/'
+    comments = 'Mainly GeoNode CMS access to mostly global datasets'
+[[sweden.collections]]
+    name = 'FreeGISData.org'
+    tags = ['']
+    url = 'http://freegisdata.org/place/210829/  '
+    comment = 'Incomplete but most seems to work at least.'
+    
+ ###################
+ 
+[[sweden.eu_level]]
+    name = 'Copernicus Land Monitoring Service'
+    tags = ['land use', 'land cover', 'elevation', 'model', 'slope', 'aspect']
+    url = 'https://land.copernicus.eu'
+
+###################
+
+[[sweden.satellite_aerial]] 
+    name = 'pleiades'
+    tags = ['']
+    url = ''
+[[sweden.satellite_aerial]] 
+    name = 'Umeå aerial imagery'
+    tags = ['']
+    url = ''
+[[sweden.satellite_aerial]] 
+    name = 'Stockholm aerial imagery'
+    tags = ['']
+    url = ''
+[[sweden.satellite_aerial]] 
+    name = 'Sentinel'
+    tags = ['']
+    url = ''
+    pylib.sentinelhub = 'sentinelhub-py.readthedocs.io/'
+    pylib.sentinelsat = 'https://sentinelsat.readthedocs.io/en/v0.9/api.html'
+    
+###################
+
+[[sweden.stocks_etc]]
+    name = 'investing.com'
+    tags = ['stocks','funds','indices','crypto']
+    url = 'https://investing.com'
+    pylib.investpy = 'https://investpy.readthedocs.io/'
+[[sweden.stocks_etc]]
+    name = 'avanza placera'
+    tags = ['finance','news']
+    url = 'https://www.avanza.se/placera/forstasidan.html'
+
+
