@@ -40,6 +40,10 @@
 - Avanza Placer  
     - https://www.avanza.se/placera/forstasidan.html  
 
+## Electric grid 
+- NordPool  
+    - API: https://marketdata.nordpoolgroup.com/faq  
+
 ## Authorities/State owned entities/etc
 <details>
 <summary>MSB</summary>
