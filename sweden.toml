@@ -26,7 +26,7 @@ disclaimer = 'Not all resources that the APIs provide are available unauthorized
     name = 'FreeGISData.org'
     tags = ['']
     url = 'http://freegisdata.org/place/210829/  '
-    comment = 'Incomplete but most seems to work at least.'
+    comments = 'Incomplete but most seems to work at least.'
     
  ###################
  
