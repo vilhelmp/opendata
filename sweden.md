@@ -2,6 +2,8 @@
 
 *Disclaimer: Not all resources that the APIs provide are available unauthorized.*  
 
+[Back to main page](README.md)
+
 ## Collections
 - Sveriges dataportal  
     - Tags: collection
