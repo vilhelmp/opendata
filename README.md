@@ -5,7 +5,7 @@ Currently pretty much just TOML/markdown files with lists of resoures.
 
 Planning on organizing it a bit better when I have more, and also make it possible to get the WMS/WFS/API/etc urls directly to query more easily.   
 
-
+View list for [Sweden](sweden.md),  [Denmark](denmark.md), and  [Global](global.md)
 
 # Quick example of working with the data in Python:
 
