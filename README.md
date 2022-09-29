@@ -3,7 +3,9 @@ List of open data resources ordered by country and topic.
 
 Currently pretty much just TOML/markdown files with lists of resoures. 
 
-Planning on organizing it a bit better when I have more, and also make it possible to get the WMS/WFS/API/etc urls directly to query more easily.   
+Planning on organizing it a bit better when I have more time and data, and also make it possible to get the WMS/WFS/API/etc urls directly to query more easily. Also the file formats may change, but goal is to keep it both human and machine readable.  
+
+GitHub repository: [https://github.com/vilhelmp/opendata](https://github.com/vilhelmp/opendata)
 
 View list for [Sweden](sweden.md),  [Denmark](denmark.md), and  [Global](global.md)
 
