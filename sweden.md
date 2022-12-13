@@ -24,6 +24,8 @@
 - FreeGISData.org  
     - Incomplete but most seems to work at least.     
     - URL: http://freegisdata.org/place/210829/   
+- Swedish National Data Service (SND)  
+    - URL: https://snd.gu.se/en/catalogue  
 ## EU level
 - Copernicus Land Monitoring Service
     - Tags: land use, land cover, elevation, model, slope, aspect 
