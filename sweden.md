@@ -242,6 +242,9 @@
     - Webpage: http://www.sodertalje.se
 - Nacka kommun	   
     - Webpage: http://www.nacka.se
+    - Open Data Information: https://www.nacka.se/boende-miljo/lantmateri-kart--och-mattjanster/oppen-geodata/  
+    - Open Data Downloads: http://infobank.nacka.se/Ext/oppnadata/  
+    - Tags: aerial photos, altitude maps, LAS, terrain model  
 - Sundbybergs stad	   
     - Webpage: http://www.sundbyberg.se
 - Solna stad	   
