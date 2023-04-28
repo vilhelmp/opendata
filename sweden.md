@@ -205,6 +205,7 @@
 - Österåkers kommun	   
     - Webpage: http://www.osteraker.se
     - ArcGIS REST API: https://gisportal.osteraker.se/arcgis/rest/services  
+    - Tags: aerial photos
 - Värmdö kommun	   
     - Webpage: http://www.varmdo.se
 - Järfälla kommun	   
