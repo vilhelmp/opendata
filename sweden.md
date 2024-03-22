@@ -309,6 +309,8 @@
     - Webpage: http://www.valdemarsvik.se
 - Linköpings kommun	   
     - Webpage: http://www.linkoping.se
+    - https://www.linkoping.se/open/
+    - Need API key for most access, including WMS and WFS (?)  
 - Norrköpings kommun	   
     - Webpage: http://www.norrkoping.se
 - Söderköpings kommun	   
