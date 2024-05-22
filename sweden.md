@@ -645,7 +645,6 @@
     - WMS API: http://data.karta.orebro.se/opendataapi/v1/layers 
     -   -"-  : https://karta.orebro.se/opendataapi/v1/layers 
     - WFS API: http://data.karta.orebro.se/opendataapi/v1/layers?type=vectorLayer
-
     - Öppen data: http://data.karta.orebro.se/   
 - Kumla kommun	    
     - Webpage: http://www.kumla.se
@@ -779,6 +778,8 @@
     - Webpage: http://www.vannas.se
 - Vilhelmina kommun	   
     - Webpage: http://www.vilhelmina.se
+- Kalmar kommun
+    - URL: https://data-kalmar.opendata.arcgis.com/search
 - Åsele kommun	   
     - Webpage: http://www.asele.se
 - Umeå kommun  
