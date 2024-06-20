@@ -71,6 +71,12 @@
     - https://www.scb.se/vara-tjanster/oppna-data/       
 </details>
 <details>
+<summary>Naturvårdsverkets geodatakatalog</summary>
+    - Tags: nature, <br/>
+    - https://geodatakatalogen.naturvardsverket.se <br/>    
+</details>
+
+<details>
 <summary>Skatteverket</summary>
     - Tags: taxation, property, regionalization<br/>
     - https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen       
