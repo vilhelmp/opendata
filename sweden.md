@@ -24,7 +24,9 @@
 - FreeGISData.org  
     - Incomplete but most seems to work at least.     
     - URL: http://freegisdata.org/place/210829/   
- 
+ - OSM listing  
+    - https://wiki.openstreetmap.org/wiki/Sv:Sverige/Datak%C3%A4llor#Nationellt
+    - 
 ## EU level
 - Copernicus Land Monitoring Service
     - Tags: land use, land cover, elevation, model, slope, aspect 
